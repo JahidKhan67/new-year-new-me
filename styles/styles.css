@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    <style>@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+    </style>
+}
+
+.btn-primary {
+    color: #FFFFFF;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 20px 25px;
+}
