@@ -149,5 +149,35 @@ line-height: 29px;
 color: #737272;
 }
 
+.bottom-box{
+    position: relative;
+}
+.box-4 img{
+    max-width: auto%;
+    height: auto;
 
+}
+.box-4-text{
+    position: absolute;
+    top: 0;
+    margin-top: 59px;
+    margin-left: 64px;
+    margin-bottom: 24;
+    font-weight: 700;
+font-size: 40px;
+
+color: #FFFFFF;
+}
+
+.btn-2nd{
+    color: #F15B2F;
+    font-weight: 600;
+    font-size: 20px;
+    border: 0;
+    padding: 20px 25px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-top: 24px;
+}
 
