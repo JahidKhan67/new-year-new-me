@@ -113,8 +113,11 @@ main {
 .box-3 {
     text-align: center;
     margin-top: 130px;
+    margin-bottom: 124px;
 
 }
+
+
 
 .plans-container {
     display: flex;
@@ -145,4 +148,6 @@ font-size: 25px;
 line-height: 29px;
 color: #737272;
 }
+
+
 
