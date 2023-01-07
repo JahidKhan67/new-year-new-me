@@ -1,7 +1,7 @@
 * {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-
+font-family: 'Work Sans', sans-serif;
 }
 
 .btn-primary {
@@ -12,7 +12,8 @@
     padding: 20px 25px;
     height: 64px;
     background: #F15B22;
-    border-radius: 5px
+    border-radius: 5px;
+    
 }
 
 .banner {
@@ -23,17 +24,18 @@
 
 .title {
     margin-bottom: 24px;
-    font-weight: 700;
+    font-weight: 700px;
     font-size: 65px;
     color: #151414;
 
 }
 
 .sub-title {
-    margin-bottom: 32px;
-    font-weight: 400;
-font-size: 16px;
+    margin-bottom: 30px;
+    font-weight: 400px;
+    font-size: 16px;
 color: #444343;
+
 }
 .image-text{
     position: absolute;
@@ -41,5 +43,5 @@ color: #444343;
     margin-top: 216px;
     margin-right: 230px;
     margin-left: 845px;
-    
-}
+} 
+
