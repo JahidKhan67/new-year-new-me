@@ -14,6 +14,7 @@
     background: #F15B22;
     border-radius: 5px;
 
+
 }
 
 .banner {
@@ -27,6 +28,8 @@
     font-weight: 700px;
     font-size: 65px;
     color: #151414;
+    line-height: 76px;
+
 
 }
 
@@ -35,6 +38,8 @@
     font-weight: 400px;
     font-size: 16px;
     color: #444343;
+    line-height: 26px;
+
 
 }
 
@@ -49,15 +54,16 @@
 main {
     max-width: 1072px;
     margin: 0 auto;
-   
+
 
 }
 
 .box {
     margin-top: 130px;
     display: flex;
-   align-items: center;
+    align-items: center;
     
+
 }
 
 .my-title {
@@ -66,6 +72,7 @@ main {
     font-weight: 700;
     font-size: 40px;
     color: #151414;
+    line-height: 47px;
 }
 
 .description {
@@ -74,17 +81,41 @@ main {
     font-weight: 400;
     font-size: 16px;
     color: #444343;
+    line-height: 26px;
+    
 }
-.box-2{
+
+.box-2 {
     margin-left: 87px;
+    
 }
-.points{
+
+.points {
     font-weight: 400;
-font-size: 16px;
-color: #444343;
-list-style: none;
+    font-size: 16px;
+
+    color: #444343;
+    list-style: none;
+}
+
+
+.fa-solid {
+    color: #16D887;
+    margin: 8px;
+}
+
+
+/* what i do */
+
+.box-3 {
+    text-align: center;
+    margin-top: 130px;
 
 }
-.fa-solid{
-    color: green;
+
+.plans-container {
+    display: flex;
+    justify-content: space-around;
+
+
 }
