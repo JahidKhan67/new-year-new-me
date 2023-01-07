@@ -151,6 +151,7 @@ color: #737272;
 
 .bottom-box{
     position: relative;
+    background-image: url('../images/watch.png');
 }
 .box-4 img{
     max-width: auto%;
