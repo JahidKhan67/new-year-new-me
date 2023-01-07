@@ -1,7 +1,7 @@
 * {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-font-family: 'Work Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
 }
 
 .btn-primary {
@@ -13,13 +13,13 @@ font-family: 'Work Sans', sans-serif;
     height: 64px;
     background: #F15B22;
     border-radius: 5px;
-    
+
 }
 
 .banner {
     display: flex;
     align-items: center;
-    
+
 }
 
 .title {
@@ -34,14 +34,57 @@ font-family: 'Work Sans', sans-serif;
     margin-bottom: 30px;
     font-weight: 400px;
     font-size: 16px;
-color: #444343;
+    color: #444343;
 
 }
-.image-text{
+
+.image-text {
     position: absolute;
     text-align: right;
     margin-top: 216px;
     margin-right: 230px;
     margin-left: 845px;
-} 
+}
 
+main {
+    max-width: 1072px;
+    margin: 0 auto;
+   
+
+}
+
+.box {
+    margin-top: 130px;
+    display: flex;
+   align-items: center;
+    
+}
+
+.my-title {
+    text-align: left;
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+}
+
+.description {
+    text-align: left;
+    margin-bottom: 16px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.box-2{
+    margin-left: 87px;
+}
+.points{
+    font-weight: 400;
+font-size: 16px;
+color: #444343;
+list-style: none;
+
+}
+.fa-solid{
+    color: green;
+}
