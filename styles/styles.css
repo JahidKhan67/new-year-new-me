@@ -58,7 +58,7 @@ main {
 
 }
 
-.box {
+.person {
     margin-top: 130px;
     display: flex;
     align-items: center;
@@ -74,10 +74,12 @@ main {
     font-size: 40px;
     color: #151414;
     line-height: 47px;
+    margin-left: 48px;
 }
 
 .description {
     text-align: left;
+    margin-left: 48px;
     margin-bottom: 16px;
     font-weight: 400;
     font-size: 16px;
@@ -88,9 +90,7 @@ main {
 
 .box-2 {
     margin-left: 87px;
-
-
-
+    text-align: left;
 }
 
 .points {
@@ -153,14 +153,12 @@ main {
 .bottom-box {
     position: relative;
     background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
 
 }
 
-.box-4 img {
-    max-width: auto;
-    height: auto;
 
-}
+
 
 .box-4-text {
     position: absolute;
