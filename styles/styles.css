@@ -142,35 +142,39 @@ main {
     margin-top: 30px;
     margin-bottom: 16px;
 }
-.plan-description{
+
+.plan-description {
     font-weight: 500;
-font-size: 25px;
-line-height: 29px;
-color: #737272;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
 }
 
-.bottom-box{
+.bottom-box {
     position: relative;
     background-image: url('../images/watch.png');
+
 }
-.box-4 img{
-    max-width: auto%;
+
+.box-4 img {
+    max-width: auto;
     height: auto;
 
 }
-.box-4-text{
+
+.box-4-text {
     position: absolute;
     top: 0;
     margin-top: 59px;
     margin-left: 64px;
     margin-bottom: 24;
     font-weight: 700;
-font-size: 40px;
+    font-size: 40px;
 
-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
-.btn-2nd{
+.btn-2nd {
     color: #F15B2F;
     font-weight: 600;
     font-size: 20px;
@@ -178,7 +182,72 @@ color: #FFFFFF;
     padding: 20px 25px;
     height: 64px;
     background: #FFFFFF;
-    border-radius: 5px;
+    border-radius:10px;
     margin-top: 24px;
 }
 
+.contract .Future-title {
+    text-align: left;
+    
+    
+
+}
+
+.contract-1 {
+    display: flex;
+    gap: 331px;
+    color: #FFFFFF;
+    margin-left: 420px;
+    
+}
+
+
+.Future-title {
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 130px;
+}
+
+.Future-para {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+}
+
+.Future-mail {
+    font-weight: 400;
+    font-size: 16px;
+   border: 0;
+    margin-bottom: 16px;
+    margin-top: 24px;
+}
+
+.Future-phone {
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+.Subscribe-title{
+    font-weight: 600;
+font-size: 25px;
+margin-top: 130px;
+margin-bottom: 31px;
+}
+input{
+    height: 64px;
+    width: 325px;
+    border-radius: 8px;
+}
+footer{
+    background: #151414;
+    margin-top: 130px;
+}
+
+.icon{
+    margin-bottom: 130px;
+}
+
+.Subscribe{
+    margin-right: 420px;
+}
