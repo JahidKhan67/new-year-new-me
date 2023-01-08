@@ -47,8 +47,8 @@
     position: absolute;
     text-align: right;
     margin-top: 216px;
-    margin-right: 230px;
-    margin-left: 845px;
+    
+    margin-left: 1100px;
 }
 
 main {
@@ -244,8 +244,13 @@ footer{
 
 .icon{
     margin-bottom: 130px;
+    display: flex;
+    gap: 17px;
 }
 
 .Subscribe{
     margin-right: 420px;
+}
+.banner{
+    background-image: url('../images/banner/banner2.png');
 }
